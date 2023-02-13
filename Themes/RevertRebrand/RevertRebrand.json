@@ -2,7 +2,7 @@
     "manifest": {
         "name": "Revert Rebrand",
         "author": "akisblack",
-        "version": "1.0.0",
+        "version": "2.0.0",
         "license": "MIT",
         "updater": "https:\/\/raw.githubusercontent.com\/akisblack\/AliucordAddons\/master\/Themes\/RevertRebrand\/RevertRebrand.json"
     },
@@ -24,7 +24,8 @@
         "color_uikit_btn_bg_color_selector_green": -12339839,
         "color_uikit_btn_bg_color_selector_red": -1030329,
         "color_status_red_500": -1030329,
-        "link": -16339730
+        "link": -16339730,
+        "mention wrapper": -16339730
     },
     "drawable_tints": {}
 }
